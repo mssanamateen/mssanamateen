@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sana Mateen</h1>
 <h3 align="center">Ethical Hacking Enthusiast | Exploring the Digital Frontier with Curiosity and Vigilance</h3>
 
-- 🔭 I’m currently working on [AI Algorithms]
+- 🔭 I’m currently working on **AI Algorithms, IOT, Ethical Hacking**
 
 - 🌱 I’m currently learning **Python, Ethical Hacking**
 
