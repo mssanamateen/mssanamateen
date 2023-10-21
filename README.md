@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Ethical Hacking**
 
-- 👯 I’m looking to collaborate on **AI projects and Pentesting**
+-  🔭 I’m looking to collaborate on **AI projects and Pentesting**
 
 - 💬 Ask me about **Python, React,NMAP,KALI LINUX TOOLS,Cyber Security, Computer Networks**
 
