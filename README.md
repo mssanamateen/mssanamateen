@@ -28,8 +28,9 @@
 
 
 </div>
+<div></div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mssanamateen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mssanamateen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mssanamateen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -38,7 +39,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mssanamateen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mssanamateen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
