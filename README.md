@@ -1,11 +1,11 @@
 <h1 align="center" style="color:crimson">Hi 👋, I'm Sana Mateen</h1>
 <h3 align="center">Ethical Hacking Enthusiast | Exploring the Digital Frontier with Curiosity and Vigilance</h3>
 
-- 🔭 I’m currently working on **AI Algorithms, IOT, Ethical Hacking**
+- 🔭 I’m currently working on **AI and ML Algorithms, CCNA, IOT, Ethical Hacking**
 
-- 🌱 I’m currently learning **Python, Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning, Ethical Hacking(With Great Power Comes Great Responsibility)**
 
--  🔭 I’m looking to collaborate on **AI projects and Pentesting**
+-  🔭 I’m looking to collaborate on **AI and ML projects and Pentesting**
 
 - 💬 Ask me about **Python, React,NMAP,KALI LINUX TOOLS,Cyber Security, Computer Networks**
 
