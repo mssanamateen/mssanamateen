@@ -22,16 +22,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mssanamateen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mssanamateen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
 
   | 📊 GitHub Stats | 📈 Top Languages |
   |-----------------|------------------|
-  | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mssanamateen&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mssanamateen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+  | ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mssanamateen&theme=github&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mssanamateen&theme=github&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mssanamateen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mssanamateen&limit=5&theme=github&combine_all_yearly_contributions=true)
